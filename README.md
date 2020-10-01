@@ -1,6 +1,4 @@
-# BERTopic
-
-<img src="https://raw.githubusercontent.com/MaartenGr/BERTopic/dev/images/logo.png" height="250" />
+<img src="https://raw.githubusercontent.com/MaartenGr/BERTopic/master/images/logo.png" height="220" />
 
 [![PyPI - Status](https://img.shields.io/badge/status-beta-yellow.svg)](https://pypi.org/project/vlac/)
 [![PyPI - Python](https://img.shields.io/badge/python-3.6-blue.svg)](https://pypi.org/project/bertopic/)
